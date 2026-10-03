@@ -6,17 +6,17 @@ const os = require("os");
 // and any standard message without knowing JavaScript.
 // ======================================================================
 const EASY_EDIT = {
-  botName: "xᴘʀᴏᴠᴇʀᴄᴇ",
-  ownerName: "MR.RASHMIKA",
-  brand: "XPRO BOT",
-  cinemaBrand: "XPRO CINEMA",
-  title: "𝗫𝗣𝗥𝗢 𝗩𝗘𝗥𝗖𝗘",
+  botName: "SADEW MD",
+  ownerName: "MR.SADEW",
+  brand: "MOVIE HUB BOT",
+  cinemaBrand: "MOVIE HUB CINEMA",
+  title: " 𝐒𝐚𝐝𝐞𝐰 𝐌𝐃",
   headerIcon: "🚀",
-  image: "https://i.ibb.co/pBvpkZYt/Rashmika-Ofc.jpg",
+  image: "https://pmd-img2url.koyeb.app/v/a5c09cd09d9a2c1f732b12f2811c3b15.jpg",
   footer: [
-    "• © 𝙓𝙋𝙍𝙊 𝙈𝘿 𝙈𝙞𝙣𝙞 𝙑 2",
-    "• ᵂᵃᵇᵒᵗ ᴮʸ ˣᴾᴿᴼᵛᵉʳᶜᵉ ᵀᴱᴬᴺ ᴢ",
-    "• *⛦* xpro-verce.site",
+    "• © 𝐌𝐎𝐕𝐈𝐄 𝐇𝐔𝐁 𝙈𝘿  𝙑 2",
+    "• ᵂᵃᵇᵒᵗ ᴮʸ 𝐝𝐞𝐰_𝐱𝐳 ᵀᴱᴬᴺ ᴢ",
+    
   ],
   // Example: "✅": "🌟"
   messageEmoji: {},
