@@ -1,3 +1,3 @@
 module.exports = {
-  SESSION_ID: 'Your Session ID',
+  SESSION_ID: 'XPRO-MD~1791028671435_v3hjhbakq',
 };
